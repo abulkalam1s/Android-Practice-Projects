@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="4dp"
+    android:paddingEnd="4dp"
+    android:background="@color/black"
+    >
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:id="@+id/abul"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="4dp"
+        android:text="Abul"
+        android:gravity="center"
+        android:background="@drawable/circle"
+        />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_toRightOf="@id/abul"
+        android:text="Rohit"
+        />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_toLeftOf="@id/abul"
+        android:text="Salam"
+        android:background="@drawable/rectangle_border"
+        />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:layout_above="@id/mohit"
+        android:layout_alignParentEnd="true"
+        android:text="Abbas"
+        />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:id="@+id/mohit"
+        android:layout_above="@id/azhar"
+        android:layout_alignParentEnd="true"
+        android:text="Mohit"
+        />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:layout_above="@id/ramesh"
+        android:background="@color/teal_200"
+        android:text="Ronak" />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:id="@+id/ramesh"
+        android:layout_alignParentBottom="true"
+        android:text="Ramesh"
+        />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/ramesh"
+        android:text="Ansar"
+        />
+
+    <TextView
+        style="@style/CommonTextViewAttributes"
+        android:id="@+id/azhar"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:text="Azhar"
+        />
+
+
+</RelativeLayout>
