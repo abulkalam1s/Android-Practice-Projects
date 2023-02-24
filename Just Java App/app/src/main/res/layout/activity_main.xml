@@ -25,6 +25,7 @@
     <CheckBox
         android:id="@+id/cB_WhippedCream"
         style="@style/CheckBoxes"
+
         android:layout_marginTop="16dp"
         android:text="Whipped Cream"
         android:paddingLeft="24sp"
@@ -84,6 +85,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
+
         android:onClick="submitOrder"
         android:text="ORDER" />
 
