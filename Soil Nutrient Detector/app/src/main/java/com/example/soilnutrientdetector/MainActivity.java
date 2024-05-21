@@ -1,5 +1,7 @@
 package com.example.soilnutrientdetector;
 
+
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager2.widget.ViewPager2;
 

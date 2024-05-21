@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585355351147",
+    "project_id": "soil-nutrients-data-8c92d",
+    "storage_bucket": "soil-nutrients-data-8c92d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585355351147:android:753f052f39e0ba25668d2e",
+        "android_client_info": {
+          "package_name": "com.example.soilnutrientdetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5NlRdcdHlEZ9eXrrhQgxWFXy8FfS9JzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "921088405100",
+    "firebase_url": "https://testing-data-bf2e1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testing-data-bf2e1",
+    "storage_bucket": "testing-data-bf2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921088405100:android:3b9282e2d5005562353249",
+        "android_client_info": {
+          "package_name": "com.example.datatestingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqnehYj-9G3xSDuongDSe5bJO8-olbFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

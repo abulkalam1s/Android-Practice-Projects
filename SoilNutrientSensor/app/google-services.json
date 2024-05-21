@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "80607569094",
+    "firebase_url": "https://soil-npk-sensor-79fcd-default-rtdb.firebaseio.com",
+    "project_id": "soil-npk-sensor-79fcd",
+    "storage_bucket": "soil-npk-sensor-79fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80607569094:android:3ad035f123ad53fe57a3c7",
+        "android_client_info": {
+          "package_name": "com.example.soilnpksensor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJJZQE8iQYA_y7W31Yq1SetPzS3Fqzyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80607569094:android:db8779fc094a80c757a3c7",
+        "android_client_info": {
+          "package_name": "com.example.soilnutrientsensor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJJZQE8iQYA_y7W31Yq1SetPzS3Fqzyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

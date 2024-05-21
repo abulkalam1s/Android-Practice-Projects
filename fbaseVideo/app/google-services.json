@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "146358897434",
+    "firebase_url": "https://fbase2-a4222-default-rtdb.firebaseio.com",
+    "project_id": "fbase2-a4222",
+    "storage_bucket": "fbase2-a4222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146358897434:android:cfa0c557b7715da150faa3",
+        "android_client_info": {
+          "package_name": "com.example.fbasevideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG2mEnpSwqeueD3f1_3_pGPlAhv9L9z6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
